@@ -1,4 +1,4 @@
-# Biggie's Bake Run — published build
+# Biggie's Bakes Run — published build
 
 `index.html` is the whole game: markup, stylesheet, every JS module and both
 images, gzipped and encrypted with AES-256-GCM under a key derived from the
